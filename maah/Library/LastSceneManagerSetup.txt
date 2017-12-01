@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Maah movements.unity
+- path: C:/Users/alex/Konpanion2/Konpanion-Demo/Assets/Demo 06-02.unity
   isLoaded: 1
   isActive: 1

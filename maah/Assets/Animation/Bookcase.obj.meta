@@ -34,6 +34,7 @@ ModelImporter:
     100052: Box026
     100054: Box027
     100056: Box028
+    100058: Box028_1
     400000: //RootNode
     400002: Box001
     400004: Box002
@@ -63,6 +64,7 @@ ModelImporter:
     400052: Box026
     400054: Box027
     400056: Box028
+    400058: Box028_1
     2300000: Box001
     2300002: Box002
     2300004: Box003
@@ -91,6 +93,7 @@ ModelImporter:
     2300050: Box026
     2300052: Box027
     2300054: Box028
+    2300056: Box028_1
     3300000: Box001
     3300002: Box002
     3300004: Box003
@@ -119,6 +122,7 @@ ModelImporter:
     3300050: Box026
     3300052: Box027
     3300054: Box028
+    3300056: Box028_1
     4300000: Box001
     4300002: Box002
     4300004: Box003
@@ -147,6 +151,7 @@ ModelImporter:
     4300050: Box026
     4300052: Box027
     4300054: Box028
+    4300056: Box028_1
   materials:
     importMaterials: 1
     materialName: 0
