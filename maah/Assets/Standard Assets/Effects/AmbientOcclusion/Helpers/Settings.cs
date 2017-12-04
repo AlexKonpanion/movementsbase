@@ -8,7 +8,7 @@ namespace UnityStandardAssets.CinematicEffects
         /// Values for Settings.sampleCount, determining the number of sample points.
         public enum SampleCount
         {
-            Lowest, Low, Medium, High, Custom
+            Lowest, Low, Medium, High, Variable
         }
 
         /// Values for Settings.occlusionSource, determining the source buffer of occlusion.
@@ -36,9 +36,9 @@ namespace UnityStandardAssets.CinematicEffects
             [Tooltip("Number of sample points, which affects quality and performance.")]
             public SampleCount sampleCount;
 
-            /// Determines the sample count when SampleCount.Custom is used.
+            /// Determines the sample count when SampleCount.Variable is used.
             [SerializeField]
-            [Tooltip("Determines the sample count when SampleCount.Custom is used.")]
+            [Tooltip("Determines the sample count when SampleCount.Variable is used.")]
             public int sampleCountValue;
 
             /// Halves the resolution of the effect to increase performance.

@@ -4,7 +4,7 @@ namespace UnityStandardAssets.CinematicEffects
 {
     [ExecuteInEditMode]
     [RequireComponent(typeof(Camera))]
-    [AddComponentMenu("Image Effects/Cinematic/Anti-aliasing")]
+    [AddComponentMenu("Image Effects/Anti-aliasing")]
 #if UNITY_5_4_OR_NEWER
     [ImageEffectAllowedInSceneView]
 #endif
@@ -58,12 +58,6 @@ namespace UnityStandardAssets.CinematicEffects
 
                 return m_Camera;
             }
-        }
-
-        private void Awake()
-        {
-            m_SMAA.Awake();
-            m_FXAA.Awake();
         }
 
         private void OnEnable()

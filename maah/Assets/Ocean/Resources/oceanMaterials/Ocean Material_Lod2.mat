@@ -75,24 +75,24 @@ Material:
     - _BlendA: -0.6632021
     - _BlendB: -0.7484403
     - _DistanceCancellation: 2000
-    - _FoamFactor: 1.1
+    - _FoamFactor: 1.13
     - _Shininess: 0.7665094
-    - _Size: 0.03125
-    - _SpecPower: 0.891
-    - _Specularity: 0.373
-    - _WaterLod1Alpha: 1
+    - _Size: 0.015625
+    - _SpecPower: 0.682
+    - _Specularity: 0.197
+    - _WaterLod1Alpha: 0.902
     - _WaveOffset: -87.32627
     m_Colors:
     - _Color: {r: 0.3895323, g: 0.6146181, b: 0.5976806, a: 1}
-    - _FakeUnderwaterColor: {r: 0, g: 0.13235295, b: 0.07210952, a: 1}
+    - _FakeUnderwaterColor: {r: 0.0018922994, g: 0.043264512, b: 0.051470578, a: 1}
     - _ReflectColor: {r: 1, g: 1, b: 1, a: 1}
     - _Size: {r: 512, g: 30, b: 512, a: 0}
     - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
-    - _SunColor: {r: 1, g: 1, b: 1, a: 1}
-    - _SunDir: {r: 0, g: 0, b: 0, a: 0}
-    - _SurfaceColor: {r: 0.54217124, g: 0.66198534, b: 0.8014706, a: 1}
+    - _SunColor: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
+    - _SunDir: {r: 0.99923855, g: -0.017452411, b: 0.03489398, a: 0}
+    - _SurfaceColor: {r: 0.5878568, g: 0.9011037, b: 0.9632353, a: 1}
     - _SurfaceColorLod1: {r: 0.49545845, g: 0.8381487, b: 0.85294116, a: 1}
-    - _WaterColor: {r: 0.051903106, g: 0.22748075, b: 0.4705882, a: 1}
+    - _WaterColor: {r: 0.023788912, g: 0.26020166, b: 0.64705884, a: 1}
     - _WaterColorLod1: {r: 0.046009947, g: 0.1691676, b: 0.27205884, a: 1}
     - _WaveOffset: {r: -87.81002, g: -87.81002, b: -87.81002, a: -87.81002}
 --- !u!1002 &2100001
