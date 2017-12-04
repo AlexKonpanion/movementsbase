@@ -122,8 +122,8 @@ ModelImporter:
     - serializedVersion: 16
       name: Maah movement
       takeName: C4D Animation Take
-      firstFrame: 0
-      lastFrame: 720
+      firstFrame: 488
+      lastFrame: 712
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
