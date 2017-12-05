@@ -7,11 +7,16 @@ ModelImporter:
   fileIDToRecycleName:
     100000: mesh136848268
     100002: //RootNode
+    100004: plant_01_Cube_006
     400000: mesh136848268
     400002: //RootNode
+    400004: plant_01_Cube_006
     2300000: mesh136848268
+    2300002: plant_01_Cube_006
     3300000: mesh136848268
+    3300002: plant_01_Cube_006
     4300000: mesh136848268
+    4300002: plant_01_Cube_006
   materials:
     importMaterials: 1
     materialName: 0
@@ -43,7 +48,7 @@ ModelImporter:
     addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

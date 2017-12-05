@@ -7,11 +7,16 @@ ModelImporter:
   fileIDToRecycleName:
     100000: default
     100002: //RootNode
+    100004: couch_Cube_029
     400000: default
     400002: //RootNode
+    400004: couch_Cube_029
     2300000: default
+    2300002: couch_Cube_029
     3300000: default
+    3300002: couch_Cube_029
     4300000: default
+    4300002: couch_Cube_029
   materials:
     importMaterials: 1
     materialName: 0
@@ -43,7 +48,7 @@ ModelImporter:
     addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
