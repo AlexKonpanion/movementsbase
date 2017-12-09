@@ -127,6 +127,9 @@
     <Reference Include="ReAct.unity">
       <HintPath>Assets\Plugins\POSH\lib\ReAct.unity.dll</HintPath>
     </Reference>
+    <Reference Include="SourceUnityLib">
+      <HintPath>Assets\Substance\Source\Editor\SourceUnityLib.dll</HintPath>
+    </Reference>
     <Reference Include="Assembly-UnityScript-firstpass">
       <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>
     </Reference>
