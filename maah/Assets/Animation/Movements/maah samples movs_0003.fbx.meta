@@ -92,7 +92,9 @@ ModelImporter:
     400082: Skeleton
     400084: Subdivision_Surface_1
     4300000: Subdivision_Surface_1
-    7400000: Maah movement
+    7400000: Excitement
+    7400002: Impatience
+    7400004: Frustration
     9500000: //RootNode
     13700000: Subdivision_Surface_1
   materials:
@@ -119,17 +121,17 @@ ModelImporter:
     extraExposedTransformPaths: []
     clipAnimations:
     - serializedVersion: 16
-      name: Maah movement
+      name: Excitement
       takeName: C4D Animation Take
-      firstFrame: 488
-      lastFrame: 712
+      firstFrame: 0
+      lastFrame: 120
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
@@ -143,6 +145,234 @@ ModelImporter:
       curves: []
       events: []
       transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Impatience
+      takeName: C4D Animation Take
+      firstFrame: 480
+      lastFrame: 614
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: control_left_1
+        weight: 1
+      - path: control_left_1__Copy_
+        weight: 1
+      - path: Control_right_1
+        weight: 1
+      - path: Control_right_1__Copy_
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Joint_1
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left/Joint
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left/Joint/Joint_1_2
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left/Joint/Joint_1_2/Joint_2_2
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left/Joint_1_3
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left/Joint_1_3/Joint_2_3
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left/Joint_1_3/Joint_2_3/Joint_3
+        weight: 1
+      - path: Skeleton/Joint_1__Copy_
+        weight: 1
+      - path: Skeleton/Joint_1__Copy_/Joint_2_4
+        weight: 1
+      - path: Skeleton/Joint_1__Copy_/Joint_2_4/head_left_2
+        weight: 1
+      - path: Skeleton/Joint_1__Copy_/Joint_2_4/head_left_2/Joint_1_5
+        weight: 1
+      - path: Skeleton/Joint_1__Copy_/Joint_2_4/head_left_2/Joint_1_5/Joint_2_7
+        weight: 1
+      - path: Skeleton/Joint_1__Copy_/Joint_2_4/head_left_2/Joint_1_5/Joint_2_7/Joint_3_2
+        weight: 1
+      - path: Skeleton/Joint_1__Copy_/Joint_2_4/head_left_2/Joint_2_5
+        weight: 1
+      - path: Skeleton/Joint_1__Copy_/Joint_2_4/head_left_2/Joint_2_5/Joint_1_4
+        weight: 1
+      - path: Skeleton/Joint_1__Copy_/Joint_2_4/head_left_2/Joint_2_5/Joint_1_4/Joint_2_6
+        weight: 1
+      - path: Skeleton/Joint_3_3
+        weight: 1
+      - path: Skeleton/Joint_3_3/Joint_1_6
+        weight: 1
+      - path: Skeleton/Joint_3_3/Joint_1_6/Head_right
+        weight: 1
+      - path: Skeleton/Joint_3_3/Joint_1_6/Head_right/Joint_1_8
+        weight: 1
+      - path: Skeleton/Joint_3_3/Joint_1_6/Head_right/Joint_1_8/Joint_2_9
+        weight: 1
+      - path: Skeleton/Joint_3_3/Joint_1_6/Head_right/Joint_1_8/Joint_2_9/Joint_3_4
+        weight: 1
+      - path: Skeleton/Joint_3_3/Joint_1_6/Head_right/Joint_4
+        weight: 1
+      - path: Skeleton/Joint_3_3/Joint_1_6/Head_right/Joint_4/Joint_1_7
+        weight: 1
+      - path: Skeleton/Joint_3_3/Joint_1_6/Head_right/Joint_4/Joint_1_7/Joint_2_8
+        weight: 1
+      - path: Skeleton/Joint__Copy_
+        weight: 1
+      - path: Skeleton/Joint__Copy_/Joint_1_9
+        weight: 1
+      - path: Skeleton/Joint__Copy_/Joint_1_9/Head_right_2
+        weight: 1
+      - path: Skeleton/Joint__Copy_/Joint_1_9/Head_right_2/Joint_1_11
+        weight: 1
+      - path: Skeleton/Joint__Copy_/Joint_1_9/Head_right_2/Joint_1_11/Joint_2_11
+        weight: 1
+      - path: Skeleton/Joint__Copy_/Joint_1_9/Head_right_2/Joint_1_11/Joint_2_11/Joint_3_5
+        weight: 1
+      - path: Skeleton/Joint__Copy_/Joint_1_9/Head_right_2/Joint_5
+        weight: 1
+      - path: Skeleton/Joint__Copy_/Joint_1_9/Head_right_2/Joint_5/Joint_1_10
+        weight: 1
+      - path: Skeleton/Joint__Copy_/Joint_1_9/Head_right_2/Joint_5/Joint_1_10/Joint_2_10
+        weight: 1
+      - path: Skeleton/Subdivision_Surface_1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Frustration
+      takeName: C4D Animation Take
+      firstFrame: 360
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: control_left_1
+        weight: 1
+      - path: control_left_1__Copy_
+        weight: 1
+      - path: Control_right_1
+        weight: 1
+      - path: Control_right_1__Copy_
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Joint_1
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left/Joint
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left/Joint/Joint_1_2
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left/Joint/Joint_1_2/Joint_2_2
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left/Joint_1_3
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left/Joint_1_3/Joint_2_3
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left/Joint_1_3/Joint_2_3/Joint_3
+        weight: 1
+      - path: Skeleton/Joint_1__Copy_
+        weight: 1
+      - path: Skeleton/Joint_1__Copy_/Joint_2_4
+        weight: 1
+      - path: Skeleton/Joint_1__Copy_/Joint_2_4/head_left_2
+        weight: 1
+      - path: Skeleton/Joint_1__Copy_/Joint_2_4/head_left_2/Joint_1_5
+        weight: 1
+      - path: Skeleton/Joint_1__Copy_/Joint_2_4/head_left_2/Joint_1_5/Joint_2_7
+        weight: 1
+      - path: Skeleton/Joint_1__Copy_/Joint_2_4/head_left_2/Joint_1_5/Joint_2_7/Joint_3_2
+        weight: 1
+      - path: Skeleton/Joint_1__Copy_/Joint_2_4/head_left_2/Joint_2_5
+        weight: 1
+      - path: Skeleton/Joint_1__Copy_/Joint_2_4/head_left_2/Joint_2_5/Joint_1_4
+        weight: 1
+      - path: Skeleton/Joint_1__Copy_/Joint_2_4/head_left_2/Joint_2_5/Joint_1_4/Joint_2_6
+        weight: 1
+      - path: Skeleton/Joint_3_3
+        weight: 1
+      - path: Skeleton/Joint_3_3/Joint_1_6
+        weight: 1
+      - path: Skeleton/Joint_3_3/Joint_1_6/Head_right
+        weight: 1
+      - path: Skeleton/Joint_3_3/Joint_1_6/Head_right/Joint_1_8
+        weight: 1
+      - path: Skeleton/Joint_3_3/Joint_1_6/Head_right/Joint_1_8/Joint_2_9
+        weight: 1
+      - path: Skeleton/Joint_3_3/Joint_1_6/Head_right/Joint_1_8/Joint_2_9/Joint_3_4
+        weight: 1
+      - path: Skeleton/Joint_3_3/Joint_1_6/Head_right/Joint_4
+        weight: 1
+      - path: Skeleton/Joint_3_3/Joint_1_6/Head_right/Joint_4/Joint_1_7
+        weight: 1
+      - path: Skeleton/Joint_3_3/Joint_1_6/Head_right/Joint_4/Joint_1_7/Joint_2_8
+        weight: 1
+      - path: Skeleton/Joint__Copy_
+        weight: 1
+      - path: Skeleton/Joint__Copy_/Joint_1_9
+        weight: 1
+      - path: Skeleton/Joint__Copy_/Joint_1_9/Head_right_2
+        weight: 1
+      - path: Skeleton/Joint__Copy_/Joint_1_9/Head_right_2/Joint_1_11
+        weight: 1
+      - path: Skeleton/Joint__Copy_/Joint_1_9/Head_right_2/Joint_1_11/Joint_2_11
+        weight: 1
+      - path: Skeleton/Joint__Copy_/Joint_1_9/Head_right_2/Joint_1_11/Joint_2_11/Joint_3_5
+        weight: 1
+      - path: Skeleton/Joint__Copy_/Joint_1_9/Head_right_2/Joint_5
+        weight: 1
+      - path: Skeleton/Joint__Copy_/Joint_1_9/Head_right_2/Joint_5/Joint_1_10
+        weight: 1
+      - path: Skeleton/Joint__Copy_/Joint_1_9/Head_right_2/Joint_5/Joint_1_10/Joint_2_10
+        weight: 1
+      - path: Skeleton/Subdivision_Surface_1
+        weight: 1
       maskType: 3
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
