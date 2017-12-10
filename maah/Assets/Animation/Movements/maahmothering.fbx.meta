@@ -56,7 +56,7 @@ ModelImporter:
     400046: Skeleton
     400048: Subdivision_Surface_1
     4300000: Subdivision_Surface_1
-    7400000: C4D Animation Take
+    7400000: Mothering
     9500000: //RootNode
     13700000: Subdivision_Surface_1
   materials:
@@ -81,7 +81,85 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Mothering
+      takeName: C4D Animation Take
+      firstFrame: 15
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: control_left_1
+        weight: 1
+      - path: control_left_1__Copy_
+        weight: 1
+      - path: Control_right_1
+        weight: 1
+      - path: Control_right_1__Copy_
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Joint_1
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left/Joint
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left/Joint/Joint_1_2
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left/Joint/Joint_1_2/Joint_2_2
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left/Joint_1_3
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left/Joint_1_3/Joint_2_3
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left/Joint_1_3/Joint_2_3/Joint_3
+        weight: 1
+      - path: Skeleton/Joint_2_4
+        weight: 1
+      - path: Skeleton/Joint_2_4/Joint_1_4
+        weight: 1
+      - path: Skeleton/Joint_2_4/Joint_1_4/Head_right
+        weight: 1
+      - path: Skeleton/Joint_2_4/Joint_1_4/Head_right/Joint_1_6
+        weight: 1
+      - path: Skeleton/Joint_2_4/Joint_1_4/Head_right/Joint_1_6/Joint_2_6
+        weight: 1
+      - path: Skeleton/Joint_2_4/Joint_1_4/Head_right/Joint_1_6/Joint_2_6/Joint_3_3
+        weight: 1
+      - path: Skeleton/Joint_2_4/Joint_1_4/Head_right/Joint_3_2
+        weight: 1
+      - path: Skeleton/Joint_2_4/Joint_1_4/Head_right/Joint_3_2/Joint_1_5
+        weight: 1
+      - path: Skeleton/Joint_2_4/Joint_1_4/Head_right/Joint_3_2/Joint_1_5/Joint_2_5
+        weight: 1
+      - path: Skeleton/Subdivision_Surface_1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []

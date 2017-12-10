@@ -1,145 +1,120 @@
 fileFormatVersion: 2
 guid: ce1de841e37f72242abda12a51f008cb
-timeCreated: 1499970477
+timeCreated: 1512831733
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: control_left
-    100002: control_left__Copy_
-    100004: Control_right
-    100006: Control_right__Copy_
-    100008: Extrude
-    100010: Extrude_1
-    100012: Floor
-    100014: head_left
-    100016: head_left_2
-    100018: head_left_3
-    100020: head_left__Copy_
-    100022: Head_right
-    100024: Head_right_2
-    100026: Joint
-    100028: Joint_1
-    100030: Joint_1_10
-    100032: Joint_1_11
-    100034: Joint_1_12
-    100036: Joint_1_13
-    100038: Joint_1_14
-    100040: Joint_1_15
-    100042: Joint_1_2
-    100044: Joint_1_3
-    100046: Joint_1_4
-    100048: Joint_1_5
-    100050: Joint_1_6
-    100052: Joint_1_7
-    100054: Joint_1_8
-    100056: Joint_1_9
-    100058: Joint_1__Copy_
-    100060: Joint_2
-    100062: Joint_2_10
-    100064: Joint_2_11
-    100066: Joint_2_12
-    100068: Joint_2_13
-    100070: Joint_2_14
-    100072: Joint_2_15
-    100074: Joint_2_2
-    100076: Joint_2_3
-    100078: Joint_2_4
-    100080: Joint_2_5
-    100082: Joint_2_6
-    100084: Joint_2_7
-    100086: Joint_2_8
-    100088: Joint_2_9
-    100090: Joint_2__Copy_
-    100092: Joint_3
-    100094: Joint_3_2
-    100096: Joint_3_3
-    100098: Joint_3_4
-    100100: Joint_3_5
-    100102: Joint_3_6
-    100104: Joint_3_7
-    100106: Joint_4
-    100108: Joint_5
-    100110: Joint_6
-    100112: Joint_7
-    100114: Joint__Copy_
-    100116: //RootNode
-    100118: Null
-    100120: Skeleton
-    100122: Subdivision_Surface_1
-    400000: control_left
-    400002: control_left__Copy_
-    400004: Control_right
-    400006: Control_right__Copy_
-    400008: Extrude
-    400010: Extrude_1
-    400012: Floor
-    400014: head_left
-    400016: head_left_2
-    400018: head_left_3
-    400020: head_left__Copy_
-    400022: Head_right
-    400024: Head_right_2
-    400026: Joint
-    400028: Joint_1
-    400030: Joint_1_10
-    400032: Joint_1_11
-    400034: Joint_1_12
-    400036: Joint_1_13
-    400038: Joint_1_14
-    400040: Joint_1_15
-    400042: Joint_1_2
-    400044: Joint_1_3
-    400046: Joint_1_4
-    400048: Joint_1_5
-    400050: Joint_1_6
-    400052: Joint_1_7
-    400054: Joint_1_8
-    400056: Joint_1_9
-    400058: Joint_1__Copy_
-    400060: Joint_2
-    400062: Joint_2_10
-    400064: Joint_2_11
-    400066: Joint_2_12
-    400068: Joint_2_13
-    400070: Joint_2_14
-    400072: Joint_2_15
-    400074: Joint_2_2
-    400076: Joint_2_3
-    400078: Joint_2_4
-    400080: Joint_2_5
-    400082: Joint_2_6
-    400084: Joint_2_7
-    400086: Joint_2_8
-    400088: Joint_2_9
-    400090: Joint_2__Copy_
-    400092: Joint_3
-    400094: Joint_3_2
-    400096: Joint_3_3
-    400098: Joint_3_4
-    400100: Joint_3_5
-    400102: Joint_3_6
-    400104: Joint_3_7
-    400106: Joint_4
-    400108: Joint_5
-    400110: Joint_6
-    400112: Joint_7
-    400114: Joint__Copy_
-    400116: //RootNode
-    400118: Null
-    400120: Skeleton
-    400122: Subdivision_Surface_1
-    2300000: Extrude
-    2300002: Extrude_1
-    2300004: Floor
-    3300000: Extrude
-    3300002: Extrude_1
-    3300004: Floor
-    4300000: Extrude_1
-    4300002: Extrude
-    4300004: Subdivision_Surface_1
-    4300006: Floor
-    7400000: C4D Animation Take
+    100000: head_left
+    100002: head_left_2
+    100004: head_left_3
+    100006: head_left__Copy_
+    100008: Head_right
+    100010: Head_right_2
+    100012: Joint
+    100014: Joint_1
+    100016: Joint_1_10
+    100018: Joint_1_11
+    100020: Joint_1_12
+    100022: Joint_1_13
+    100024: Joint_1_14
+    100026: Joint_1_15
+    100028: Joint_1_2
+    100030: Joint_1_3
+    100032: Joint_1_4
+    100034: Joint_1_5
+    100036: Joint_1_6
+    100038: Joint_1_7
+    100040: Joint_1_8
+    100042: Joint_1_9
+    100044: Joint_1__Copy_
+    100046: Joint_2
+    100048: Joint_2_10
+    100050: Joint_2_11
+    100052: Joint_2_12
+    100054: Joint_2_13
+    100056: Joint_2_14
+    100058: Joint_2_15
+    100060: Joint_2_2
+    100062: Joint_2_3
+    100064: Joint_2_4
+    100066: Joint_2_5
+    100068: Joint_2_6
+    100070: Joint_2_7
+    100072: Joint_2_8
+    100074: Joint_2_9
+    100076: Joint_2__Copy_
+    100078: Joint_3
+    100080: Joint_3_2
+    100082: Joint_3_3
+    100084: Joint_3_4
+    100086: Joint_3_5
+    100088: Joint_3_6
+    100090: Joint_3_7
+    100092: Joint_4
+    100094: Joint_5
+    100096: Joint_6
+    100098: Joint_7
+    100100: Joint__Copy_
+    100102: //RootNode
+    100104: Skeleton
+    100106: Subdivision_Surface_1
+    400000: head_left
+    400002: head_left_2
+    400004: head_left_3
+    400006: head_left__Copy_
+    400008: Head_right
+    400010: Head_right_2
+    400012: Joint
+    400014: Joint_1
+    400016: Joint_1_10
+    400018: Joint_1_11
+    400020: Joint_1_12
+    400022: Joint_1_13
+    400024: Joint_1_14
+    400026: Joint_1_15
+    400028: Joint_1_2
+    400030: Joint_1_3
+    400032: Joint_1_4
+    400034: Joint_1_5
+    400036: Joint_1_6
+    400038: Joint_1_7
+    400040: Joint_1_8
+    400042: Joint_1_9
+    400044: Joint_1__Copy_
+    400046: Joint_2
+    400048: Joint_2_10
+    400050: Joint_2_11
+    400052: Joint_2_12
+    400054: Joint_2_13
+    400056: Joint_2_14
+    400058: Joint_2_15
+    400060: Joint_2_2
+    400062: Joint_2_3
+    400064: Joint_2_4
+    400066: Joint_2_5
+    400068: Joint_2_6
+    400070: Joint_2_7
+    400072: Joint_2_8
+    400074: Joint_2_9
+    400076: Joint_2__Copy_
+    400078: Joint_3
+    400080: Joint_3_2
+    400082: Joint_3_3
+    400084: Joint_3_4
+    400086: Joint_3_5
+    400088: Joint_3_6
+    400090: Joint_3_7
+    400092: Joint_4
+    400094: Joint_5
+    400096: Joint_6
+    400098: Joint_7
+    400100: Joint__Copy_
+    400102: //RootNode
+    400104: Skeleton
+    400106: Subdivision_Surface_1
+    4300000: Subdivision_Surface_1
+    7400000: Move front
     9500000: //RootNode
     13700000: Subdivision_Surface_1
   materials:
@@ -166,18 +141,18 @@ ModelImporter:
     extraExposedTransformPaths: []
     clipAnimations:
     - serializedVersion: 16
-      name: C4D Animation Take
+      name: Move front
       takeName: C4D Animation Take
       firstFrame: 0
-      lastFrame: 370
+      lastFrame: 360
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
-      loopBlend: 0
+      loopTime: 1
+      loopBlend: 1
       loopBlendOrientation: 0
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
@@ -191,22 +166,6 @@ ModelImporter:
       events: []
       transformMask:
       - path: 
-        weight: 1
-      - path: control_left
-        weight: 1
-      - path: control_left__Copy_
-        weight: 1
-      - path: Control_right
-        weight: 1
-      - path: Control_right/Null
-        weight: 1
-      - path: Control_right/Null/Extrude
-        weight: 1
-      - path: Control_right/Null/Extrude_1
-        weight: 1
-      - path: Control_right__Copy_
-        weight: 1
-      - path: Floor
         weight: 1
       - path: Skeleton
         weight: 1
@@ -325,7 +284,7 @@ ModelImporter:
     addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
