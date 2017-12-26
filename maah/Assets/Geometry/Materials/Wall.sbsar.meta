@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 51c907c18d1fecc47a3600beb93c8018
-timeCreated: 1514320009
+guid: ecabc998e513be8419a520fbd2d992fc
+timeCreated: 1514320494
 licenseType: Free
 SubstanceImporter:
   serializedVersion: 5
@@ -23,7 +23,7 @@ SubstanceImporter:
         texture: {instanceID: 0}
     - name: $randomseed
       value:
-        scalar[0]: 0
+        scalar[0]: 4648
         scalar[1]: 0
         scalar[2]: 0
         scalar[3]: 0
@@ -79,13 +79,13 @@ SubstanceImporter:
       - _Cutoff: 0.5
       - _DetailNormalMapScale: 1
       - _DstBlend: 0
-      - _GlossMapScale: 0.878
+      - _GlossMapScale: 0.716
       - _Glossiness: 0.5
       - _GlossyReflections: 1
       - _Metallic: 0
       - _Mode: 0
-      - _OcclusionStrength: 0.675
-      - _Parallax: 0.0227
+      - _OcclusionStrength: 0.254
+      - _Parallax: 0.08
       - _SmoothnessTextureChannel: 0
       - _SpecularHighlights: 1
       - _SrcBlend: 1
@@ -117,6 +117,11 @@ SubstanceImporter:
       wrapMode: 0
     - name: Cubebrush_basecolor
       alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Cubebrush_roughness
+      alphaSource: 0
       filterMode: 1
       aniso: 1
       wrapMode: 0
