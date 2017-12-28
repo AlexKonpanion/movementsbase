@@ -1068,6 +1068,8 @@ ModelImporter:
     102120: Wood_Seperator
     102122: Wood_walls
     102124: Big_roof_Cube_Cube
+    102126: Grass
+    102128: Grass_2
     400000: 2Buttons
     400002: 6Buttons
     400004: B
@@ -2131,6 +2133,8 @@ ModelImporter:
     402120: Wood_Seperator
     402122: Wood_walls
     402124: Big_roof_Cube_Cube
+    402126: Grass
+    402128: Grass_2
     2300000: Back
     2300002: Back_2
     2300004: Back_3
@@ -3005,6 +3009,8 @@ ModelImporter:
     2301742: winter_garden
     2301744: Wood_Seperator
     2301746: Big_roof_Cube_Cube
+    2301748: Grass
+    2301750: Grass_2
     3300000: Back
     3300002: Back_2
     3300004: Back_3
@@ -3879,6 +3885,8 @@ ModelImporter:
     3301742: winter_garden
     3301744: Wood_Seperator
     3301746: Big_roof_Cube_Cube
+    3301748: Grass
+    3301750: Grass_2
     4300000: winter_garden
     4300002: Connect
     4300004: Connect_1
@@ -4753,6 +4761,8 @@ ModelImporter:
     4301742: Ext1_
     4301744: Ext2
     4301746: Big_roof_Cube_Cube
+    4301748: Grass
+    4301750: Grass_2
   materials:
     importMaterials: 1
     materialName: 0
