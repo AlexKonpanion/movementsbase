@@ -1070,6 +1070,20 @@ ModelImporter:
     102124: Big_roof_Cube_Cube
     102126: Grass
     102128: Grass_2
+    102130: Subdivision_Surface_6
+    102132: Subdivision_Surface_7
+    102134: Connect_1_2
+    102136: Connect_1_3
+    102138: Connect_1_4
+    102140: Connect_1_5
+    102142: Connect_1_6
+    102144: Connect_1_7
+    102146: Connect_2_2
+    102148: Connect_3
+    102150: Connect_4
+    102152: Connect_5
+    102154: Connect_6
+    102156: Connect_7
     400000: 2Buttons
     400002: 6Buttons
     400004: B
@@ -2135,6 +2149,20 @@ ModelImporter:
     402124: Big_roof_Cube_Cube
     402126: Grass
     402128: Grass_2
+    402130: Subdivision_Surface_6
+    402132: Subdivision_Surface_7
+    402134: Connect_1_2
+    402136: Connect_1_3
+    402138: Connect_1_4
+    402140: Connect_1_5
+    402142: Connect_1_6
+    402144: Connect_1_7
+    402146: Connect_2_2
+    402148: Connect_3
+    402150: Connect_4
+    402152: Connect_5
+    402154: Connect_6
+    402156: Connect_7
     2300000: Back
     2300002: Back_2
     2300004: Back_3
@@ -3011,6 +3039,18 @@ ModelImporter:
     2301746: Big_roof_Cube_Cube
     2301748: Grass
     2301750: Grass_2
+    2301752: Connect_1_2
+    2301754: Connect_1_3
+    2301756: Connect_1_4
+    2301758: Connect_1_5
+    2301760: Connect_1_6
+    2301762: Connect_1_7
+    2301764: Connect_2_2
+    2301766: Connect_3
+    2301768: Connect_4
+    2301770: Connect_5
+    2301772: Connect_6
+    2301774: Connect_7
     3300000: Back
     3300002: Back_2
     3300004: Back_3
@@ -3887,6 +3927,18 @@ ModelImporter:
     3301746: Big_roof_Cube_Cube
     3301748: Grass
     3301750: Grass_2
+    3301752: Connect_1_2
+    3301754: Connect_1_3
+    3301756: Connect_1_4
+    3301758: Connect_1_5
+    3301760: Connect_1_6
+    3301762: Connect_1_7
+    3301764: Connect_2_2
+    3301766: Connect_3
+    3301768: Connect_4
+    3301770: Connect_5
+    3301772: Connect_6
+    3301774: Connect_7
     4300000: winter_garden
     4300002: Connect
     4300004: Connect_1
@@ -4763,6 +4815,18 @@ ModelImporter:
     4301746: Big_roof_Cube_Cube
     4301748: Grass
     4301750: Grass_2
+    4301752: Connect_2_2
+    4301754: Connect_1_2
+    4301756: Connect_3
+    4301758: Connect_1_3
+    4301760: Connect_4
+    4301762: Connect_1_4
+    4301764: Connect_5
+    4301766: Connect_1_5
+    4301768: Connect_6
+    4301770: Connect_1_6
+    4301772: Connect_7
+    4301774: Connect_1_7
   materials:
     importMaterials: 1
     materialName: 0
