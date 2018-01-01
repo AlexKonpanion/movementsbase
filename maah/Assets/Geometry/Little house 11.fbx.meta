@@ -1084,6 +1084,7 @@ ModelImporter:
     102152: Connect_5
     102154: Connect_6
     102156: Connect_7
+    102158: Connect_8
     400000: 2Buttons
     400002: 6Buttons
     400004: B
@@ -2163,6 +2164,7 @@ ModelImporter:
     402152: Connect_5
     402154: Connect_6
     402156: Connect_7
+    402158: Connect_8
     2300000: Back
     2300002: Back_2
     2300004: Back_3
@@ -3051,6 +3053,7 @@ ModelImporter:
     2301770: Connect_5
     2301772: Connect_6
     2301774: Connect_7
+    2301776: Connect_8
     3300000: Back
     3300002: Back_2
     3300004: Back_3
@@ -3939,6 +3942,7 @@ ModelImporter:
     3301770: Connect_5
     3301772: Connect_6
     3301774: Connect_7
+    3301776: Connect_8
     4300000: winter_garden
     4300002: Connect
     4300004: Connect_1
@@ -4827,6 +4831,7 @@ ModelImporter:
     4301770: Connect_1_6
     4301772: Connect_7
     4301774: Connect_1_7
+    4301776: Connect_8
   materials:
     importMaterials: 1
     materialName: 0
