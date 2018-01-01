@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 4fa29a0b9e3c6dc47b1acf06d408b199
-timeCreated: 1514479372
+timeCreated: 1514840006
 licenseType: Free
 SubstanceImporter:
   serializedVersion: 5
@@ -10,7 +10,7 @@ SubstanceImporter:
     prototypeName: wood_european_ash
     shaderName: 
     shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
-    shaderKeywords: 
+    shaderKeywords: _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP
     renderQueue: -1
     lightmapFlags: 4
     inputs:

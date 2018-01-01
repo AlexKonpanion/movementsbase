@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 12099ee83f8247f498fe093d70fcefa0
-timeCreated: 1514397123
+timeCreated: 1514833399
 licenseType: Free
 SubstanceImporter:
   serializedVersion: 5
@@ -33,7 +33,7 @@ SubstanceImporter:
       texEnvs:
       - _BumpMap:
           texture: {instanceID: 0}
-          scale: {x: 10, y: 1}
+          scale: {x: 10, y: 10}
           offset: {x: 0, y: 0}
       - _DetailAlbedoMap:
           texture: {instanceID: 0}
