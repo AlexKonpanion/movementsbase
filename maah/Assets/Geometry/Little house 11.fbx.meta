@@ -1289,6 +1289,21 @@ ModelImporter:
     102562: vitra_pro1_4_4
     102564: Desks_3
     102566: Desks_4
+    102568: Bed_lamp_1
+    102570: Bed_lamp_1_2
+    102572: Bed_lamp_1_3
+    102574: Bed_lamp_1_4
+    102576: Bed_lamp_1_5
+    102578: Bed_lamp_1_6
+    102580: Bed_lamp_1_Instance
+    102582: Bed_lamp_1_Instance_1
+    102584: Bed_lamp_1_Instance_2
+    102586: Bed_lamp_1_Instance_3
+    102588: Bed_lamp_1_Instance_4
+    102590: Bed_lamp_2
+    102592: Painting2_3
+    102594: Painting2_4
+    102596: terrain
     400000: 2Buttons
     400002: 6Buttons
     400004: B
@@ -2573,6 +2588,21 @@ ModelImporter:
     402562: vitra_pro1_4_4
     402564: Desks_3
     402566: Desks_4
+    402568: Bed_lamp_1
+    402570: Bed_lamp_1_2
+    402572: Bed_lamp_1_3
+    402574: Bed_lamp_1_4
+    402576: Bed_lamp_1_5
+    402578: Bed_lamp_1_6
+    402580: Bed_lamp_1_Instance
+    402582: Bed_lamp_1_Instance_1
+    402584: Bed_lamp_1_Instance_2
+    402586: Bed_lamp_1_Instance_3
+    402588: Bed_lamp_1_Instance_4
+    402590: Bed_lamp_2
+    402592: Painting2_3
+    402594: Painting2_4
+    402596: terrain
     2300000: Back
     2300002: Back_2
     2300004: Back_3
@@ -3570,6 +3600,16 @@ ModelImporter:
     2301988: vitra_pro1_4_4
     2301990: Desks_3
     2301992: Desks_4
+    2301994: Bed_lamp_1
+    2301996: Bed_lamp_1_2
+    2301998: Bed_lamp_1_3
+    2302000: Bed_lamp_1_4
+    2302002: Bed_lamp_1_5
+    2302004: Bed_lamp_1_6
+    2302006: Bed_lamp_2
+    2302008: Painting2_3
+    2302010: Painting2_4
+    2302012: terrain
     3300000: Back
     3300002: Back_2
     3300004: Back_3
@@ -4567,6 +4607,16 @@ ModelImporter:
     3301988: vitra_pro1_4_4
     3301990: Desks_3
     3301992: Desks_4
+    3301994: Bed_lamp_1
+    3301996: Bed_lamp_1_2
+    3301998: Bed_lamp_1_3
+    3302000: Bed_lamp_1_4
+    3302002: Bed_lamp_1_5
+    3302004: Bed_lamp_1_6
+    3302006: Bed_lamp_2
+    3302008: Painting2_3
+    3302010: Painting2_4
+    3302012: terrain
     4300000: winter_garden
     4300002: Connect
     4300004: Connect_1
@@ -5564,6 +5614,16 @@ ModelImporter:
     4301988: Top_17
     4301990: Desks_3
     4301992: Desks_4
+    4301994: Bed_lamp_2
+    4301996: Bed_lamp_1
+    4301998: Bed_lamp_1_2
+    4302000: Bed_lamp_1_3
+    4302002: Bed_lamp_1_4
+    4302004: Bed_lamp_1_5
+    4302006: Bed_lamp_1_6
+    4302008: Painting2_3
+    4302010: Painting2_4
+    4302012: terrain
   materials:
     importMaterials: 1
     materialName: 0

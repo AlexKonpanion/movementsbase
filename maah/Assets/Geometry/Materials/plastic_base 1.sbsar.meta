@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: ab0fef67d1f02ae4ea4a55601f79aa6f
-timeCreated: 1514833317
+timeCreated: 1514921692
 licenseType: Free
 SubstanceImporter:
   serializedVersion: 5
@@ -138,7 +138,7 @@ SubstanceImporter:
       texEnvs:
       - _BumpMap:
           texture: {instanceID: 0}
-          scale: {x: 10, y: 1}
+          scale: {x: 10, y: 10}
           offset: {x: 0, y: 0}
       - _DetailAlbedoMap:
           texture: {instanceID: 0}
@@ -162,15 +162,15 @@ SubstanceImporter:
           offset: {x: 0, y: 0}
       - _MetallicGlossMap:
           texture: {instanceID: 0}
-          scale: {x: 10, y: 1}
+          scale: {x: 10, y: 10}
           offset: {x: 0, y: 0}
       - _OcclusionMap:
           texture: {instanceID: 0}
-          scale: {x: 10, y: 1}
+          scale: {x: 10, y: 10}
           offset: {x: 0, y: 0}
       - _ParallaxMap:
           texture: {instanceID: 0}
-          scale: {x: 10, y: 1}
+          scale: {x: 10, y: 10}
           offset: {x: 0, y: 0}
       floats:
       - _BumpScale: 1
@@ -228,12 +228,12 @@ SubstanceImporter:
     - shaderProp: _MetallicGlossMap
       material: {instanceID: 0}
       baseUID: 605580060
-    - shaderProp: _OcclusionMap
-      material: {instanceID: 0}
-      baseUID: 605580032
     - shaderProp: _ParallaxMap
       material: {instanceID: 0}
       baseUID: 605580062
+    - shaderProp: _OcclusionMap
+      material: {instanceID: 0}
+      baseUID: 605580032
     buildTargetSettings:
     - serializedVersion: 2
       buildTarget: 
