@@ -1,40 +1,37 @@
 fileFormatVersion: 2
-guid: ef06c5c906cba38428755a901fb7ddd9
-timeCreated: 1512132306
+guid: 938a5af5b642b824ea0b88e009fde338
+timeCreated: 1512087179
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: Boole_1
-    100002: //RootNode
-    100004: Plane_1
-    100006: Rectangle
-    100008: Boole
-    100010: Cube
-    100012: Cube_1
-    400000: Boole_1
-    400002: //RootNode
-    400004: Plane_1
-    400006: Rectangle
-    400008: Boole
-    400010: Cube
-    400012: Cube_1
-    2300000: Boole_1
-    2300002: Plane_1
-    2300004: Rectangle
-    2300006: Cube
-    2300008: Cube_1
-    3300000: Boole_1
-    3300002: Plane_1
-    3300004: Rectangle
-    3300006: Cube
-    3300008: Cube_1
-    4300000: Rectangle
-    4300002: Plane_1
-    4300004: Boole_1
-    4300006: Cube
-    4300008: Cube_1
-    9500000: //RootNode
+    100000: mesh1091922532
+    100002: mesh1403296693
+    100004: mesh183103956
+    100006: mesh1966411861
+    100008: mesh550410507
+    100010: //RootNode
+    400000: mesh1091922532
+    400002: mesh1403296693
+    400004: mesh183103956
+    400006: mesh1966411861
+    400008: mesh550410507
+    400010: //RootNode
+    2300000: mesh1091922532
+    2300002: mesh1403296693
+    2300004: mesh183103956
+    2300006: mesh1966411861
+    2300008: mesh550410507
+    3300000: mesh1091922532
+    3300002: mesh1403296693
+    3300004: mesh183103956
+    3300006: mesh1966411861
+    3300008: mesh550410507
+    4300000: mesh1091922532
+    4300002: mesh1403296693
+    4300004: mesh183103956
+    4300006: mesh1966411861
+    4300008: mesh550410507
   materials:
     importMaterials: 1
     materialName: 0
@@ -99,7 +96,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

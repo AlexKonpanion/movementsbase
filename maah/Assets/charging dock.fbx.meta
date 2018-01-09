@@ -1,40 +1,15 @@
 fileFormatVersion: 2
-guid: ef06c5c906cba38428755a901fb7ddd9
-timeCreated: 1512132306
+guid: 4c3fb373af30a4640ade4d31be2fea27
+timeCreated: 1512422564
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: Boole_1
-    100002: //RootNode
-    100004: Plane_1
-    100006: Rectangle
-    100008: Boole
-    100010: Cube
-    100012: Cube_1
-    400000: Boole_1
-    400002: //RootNode
-    400004: Plane_1
-    400006: Rectangle
-    400008: Boole
-    400010: Cube
-    400012: Cube_1
-    2300000: Boole_1
-    2300002: Plane_1
-    2300004: Rectangle
-    2300006: Cube
-    2300008: Cube_1
-    3300000: Boole_1
-    3300002: Plane_1
-    3300004: Rectangle
-    3300006: Cube
-    3300008: Cube_1
-    4300000: Rectangle
-    4300002: Plane_1
-    4300004: Boole_1
-    4300006: Cube
-    4300008: Cube_1
-    9500000: //RootNode
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Lathe_1
   materials:
     importMaterials: 1
     materialName: 0
@@ -99,7 +74,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

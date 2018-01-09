@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections;
 using System.Linq;
 using UnityEngine;
 using Game;
@@ -32,12 +33,22 @@ public class SocialBehaviour : KonpanionBehaviour {
 		return false;
 	}
 
+	IEnumerator AnimateAffection()
+    {
+            anim.SetBool(hash.showAffection, true);
+            yield return new WaitForSeconds(2);
+
+            anim.SetBool(hash.showAffection, false);
+        }
+
 	internal void GreetOwner()
 	{
 		Loom.QueueOnMainThread(() =>
 			{
 				if (greeting != null)
 					greeting.Play();
+					Debug.Log("Start Affectioning");
+					StartCoroutine(AnimateAffection());
 			});
 
 	}

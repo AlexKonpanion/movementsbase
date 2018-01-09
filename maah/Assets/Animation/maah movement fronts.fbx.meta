@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: ce1de841e37f72242abda12a51f008cb
+timeCreated: 1499970477
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: control_left
+    100002: control_left__Copy_
+    100004: Control_right
+    100006: Control_right__Copy_
+    100008: Extrude
+    100010: Extrude_1
+    100012: Floor
+    100014: head_left
+    100016: head_left_2
+    100018: head_left_3
+    100020: head_left__Copy_
+    100022: Head_right
+    100024: Head_right_2
+    100026: Joint
+    100028: Joint_1
+    100030: Joint_1_10
+    100032: Joint_1_11
+    100034: Joint_1_12
+    100036: Joint_1_13
+    100038: Joint_1_14
+    100040: Joint_1_15
+    100042: Joint_1_2
+    100044: Joint_1_3
+    100046: Joint_1_4
+    100048: Joint_1_5
+    100050: Joint_1_6
+    100052: Joint_1_7
+    100054: Joint_1_8
+    100056: Joint_1_9
+    100058: Joint_1__Copy_
+    100060: Joint_2
+    100062: Joint_2_10
+    100064: Joint_2_11
+    100066: Joint_2_12
+    100068: Joint_2_13
+    100070: Joint_2_14
+    100072: Joint_2_15
+    100074: Joint_2_2
+    100076: Joint_2_3
+    100078: Joint_2_4
+    100080: Joint_2_5
+    100082: Joint_2_6
+    100084: Joint_2_7
+    100086: Joint_2_8
+    100088: Joint_2_9
+    100090: Joint_2__Copy_
+    100092: Joint_3
+    100094: Joint_3_2
+    100096: Joint_3_3
+    100098: Joint_3_4
+    100100: Joint_3_5
+    100102: Joint_3_6
+    100104: Joint_3_7
+    100106: Joint_4
+    100108: Joint_5
+    100110: Joint_6
+    100112: Joint_7
+    100114: Joint__Copy_
+    100116: //RootNode
+    100118: Null
+    100120: Skeleton
+    100122: Subdivision_Surface_1
+    400000: control_left
+    400002: control_left__Copy_
+    400004: Control_right
+    400006: Control_right__Copy_
+    400008: Extrude
+    400010: Extrude_1
+    400012: Floor
+    400014: head_left
+    400016: head_left_2
+    400018: head_left_3
+    400020: head_left__Copy_
+    400022: Head_right
+    400024: Head_right_2
+    400026: Joint
+    400028: Joint_1
+    400030: Joint_1_10
+    400032: Joint_1_11
+    400034: Joint_1_12
+    400036: Joint_1_13
+    400038: Joint_1_14
+    400040: Joint_1_15
+    400042: Joint_1_2
+    400044: Joint_1_3
+    400046: Joint_1_4
+    400048: Joint_1_5
+    400050: Joint_1_6
+    400052: Joint_1_7
+    400054: Joint_1_8
+    400056: Joint_1_9
+    400058: Joint_1__Copy_
+    400060: Joint_2
+    400062: Joint_2_10
+    400064: Joint_2_11
+    400066: Joint_2_12
+    400068: Joint_2_13
+    400070: Joint_2_14
+    400072: Joint_2_15
+    400074: Joint_2_2
+    400076: Joint_2_3
+    400078: Joint_2_4
+    400080: Joint_2_5
+    400082: Joint_2_6
+    400084: Joint_2_7
+    400086: Joint_2_8
+    400088: Joint_2_9
+    400090: Joint_2__Copy_
+    400092: Joint_3
+    400094: Joint_3_2
+    400096: Joint_3_3
+    400098: Joint_3_4
+    400100: Joint_3_5
+    400102: Joint_3_6
+    400104: Joint_3_7
+    400106: Joint_4
+    400108: Joint_5
+    400110: Joint_6
+    400112: Joint_7
+    400114: Joint__Copy_
+    400116: //RootNode
+    400118: Null
+    400120: Skeleton
+    400122: Subdivision_Surface_1
+    2300000: Extrude
+    2300002: Extrude_1
+    2300004: Floor
+    3300000: Extrude
+    3300002: Extrude_1
+    3300004: Floor
+    4300000: Extrude_1
+    4300002: Extrude
+    4300004: Subdivision_Surface_1
+    4300006: Floor
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    13700000: Subdivision_Surface_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: C4D Animation Take
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 370
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: control_left
+        weight: 1
+      - path: control_left__Copy_
+        weight: 1
+      - path: Control_right
+        weight: 1
+      - path: Control_right/Null
+        weight: 1
+      - path: Control_right/Null/Extrude
+        weight: 1
+      - path: Control_right/Null/Extrude_1
+        weight: 1
+      - path: Control_right__Copy_
+        weight: 1
+      - path: Floor
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Joint_1
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left/Joint
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left/Joint/Joint_1_2
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left/Joint/Joint_1_2/Joint_2_2
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left/Joint_1_3
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left/Joint_1_3/Joint_2_3
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left/Joint_1_3/Joint_2_3/Joint_3
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left__Copy_
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left__Copy_/Joint_1_5
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left__Copy_/Joint_1_5/Joint_2_6
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left__Copy_/Joint_1_5/Joint_2_6/Joint_3_2
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left__Copy_/Joint_2_4
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left__Copy_/Joint_2_4/Joint_1_4
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2/head_left__Copy_/Joint_2_4/Joint_1_4/Joint_2_5
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2__Copy_
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2__Copy_/head_left_2
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2__Copy_/head_left_2/Joint_1_7
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2__Copy_/head_left_2/Joint_1_7/Joint_2_8
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2__Copy_/head_left_2/Joint_1_7/Joint_2_8/Joint_3_4
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2__Copy_/head_left_2/Joint_3_3
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2__Copy_/head_left_2/Joint_3_3/Joint_1_6
+        weight: 1
+      - path: Skeleton/Joint_1/Joint_2__Copy_/head_left_2/Joint_3_3/Joint_1_6/Joint_2_7
+        weight: 1
+      - path: Skeleton/Joint_1__Copy_
+        weight: 1
+      - path: Skeleton/Joint_1__Copy_/Joint_2_9
+        weight: 1
+      - path: Skeleton/Joint_1__Copy_/Joint_2_9/head_left_3
+        weight: 1
+      - path: Skeleton/Joint_1__Copy_/Joint_2_9/head_left_3/Joint_1_9
+        weight: 1
+      - path: Skeleton/Joint_1__Copy_/Joint_2_9/head_left_3/Joint_1_9/Joint_2_11
+        weight: 1
+      - path: Skeleton/Joint_1__Copy_/Joint_2_9/head_left_3/Joint_1_9/Joint_2_11/Joint_3_5
+        weight: 1
+      - path: Skeleton/Joint_1__Copy_/Joint_2_9/head_left_3/Joint_4
+        weight: 1
+      - path: Skeleton/Joint_1__Copy_/Joint_2_9/head_left_3/Joint_4/Joint_1_8
+        weight: 1
+      - path: Skeleton/Joint_1__Copy_/Joint_2_9/head_left_3/Joint_4/Joint_1_8/Joint_2_10
+        weight: 1
+      - path: Skeleton/Joint_5
+        weight: 1
+      - path: Skeleton/Joint_5/Joint_1_10
+        weight: 1
+      - path: Skeleton/Joint_5/Joint_1_10/Head_right
+        weight: 1
+      - path: Skeleton/Joint_5/Joint_1_10/Head_right/Joint_1_12
+        weight: 1
+      - path: Skeleton/Joint_5/Joint_1_10/Head_right/Joint_1_12/Joint_2_13
+        weight: 1
+      - path: Skeleton/Joint_5/Joint_1_10/Head_right/Joint_1_12/Joint_2_13/Joint_3_6
+        weight: 1
+      - path: Skeleton/Joint_5/Joint_1_10/Head_right/Joint_6
+        weight: 1
+      - path: Skeleton/Joint_5/Joint_1_10/Head_right/Joint_6/Joint_1_11
+        weight: 1
+      - path: Skeleton/Joint_5/Joint_1_10/Head_right/Joint_6/Joint_1_11/Joint_2_12
+        weight: 1
+      - path: Skeleton/Joint__Copy_
+        weight: 1
+      - path: Skeleton/Joint__Copy_/Joint_1_13
+        weight: 1
+      - path: Skeleton/Joint__Copy_/Joint_1_13/Head_right_2
+        weight: 1
+      - path: Skeleton/Joint__Copy_/Joint_1_13/Head_right_2/Joint_1_15
+        weight: 1
+      - path: Skeleton/Joint__Copy_/Joint_1_13/Head_right_2/Joint_1_15/Joint_2_15
+        weight: 1
+      - path: Skeleton/Joint__Copy_/Joint_1_13/Head_right_2/Joint_1_15/Joint_2_15/Joint_3_7
+        weight: 1
+      - path: Skeleton/Joint__Copy_/Joint_1_13/Head_right_2/Joint_7
+        weight: 1
+      - path: Skeleton/Joint__Copy_/Joint_1_13/Head_right_2/Joint_7/Joint_1_14
+        weight: 1
+      - path: Skeleton/Joint__Copy_/Joint_1_13/Head_right_2/Joint_7/Joint_1_14/Joint_2_14
+        weight: 1
+      - path: Subdivision_Surface_1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
